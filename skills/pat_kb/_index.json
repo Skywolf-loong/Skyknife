@@ -1,0 +1,1753 @@
+[
+ {
+  "slug": "template_vuln",
+  "title": "_template_vuln",
+  "source": "_template_vuln\\README.md",
+  "file": "_knowledge/template_vuln.md",
+  "bytes": 783,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "template",
+   "tools",
+   "vuln"
+  ]
+ },
+ {
+  "slug": "account_takeover",
+  "title": "Account Takeover",
+  "source": "Account Takeover\\README.md",
+  "file": "_knowledge/account_takeover.md",
+  "bytes": 7332,
+  "sections": [
+   "Summary",
+   "Password Reset Feature",
+   "Account Takeover via Web Vulnerabilities",
+   "References"
+  ],
+  "keywords": [
+   "account",
+   "feature",
+   "password",
+   "references",
+   "reset",
+   "summary",
+   "takeover",
+   "vulnerabilities"
+  ]
+ },
+ {
+  "slug": "api_key_leaks",
+  "title": "API Key Leaks",
+  "source": "API Key Leaks\\README.md",
+  "file": "_knowledge/api_key_leaks.md",
+  "bytes": 5693,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Reducing The Attack Surface",
+   "References"
+  ],
+  "keywords": [
+   "akl",
+   "api",
+   "attack",
+   "key",
+   "leaks",
+   "methodology",
+   "reducing",
+   "references",
+   "summary",
+   "surface",
+   "tools"
+  ]
+ },
+ {
+  "slug": "brute_force_rate_limit",
+  "title": "Brute Force Rate Limit",
+  "source": "Brute Force Rate Limit\\README.md",
+  "file": "_knowledge/brute_force_rate_limit.md",
+  "bytes": 5937,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Bruteforce",
+   "Rate Limit",
+   "References"
+  ],
+  "keywords": [
+   "bfrl",
+   "brute",
+   "bruteforce",
+   "force",
+   "limit",
+   "rate",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "business_logic_errors",
+  "title": "Business Logic Errors",
+  "source": "Business Logic Errors\\README.md",
+  "file": "_knowledge/business_logic_errors.md",
+  "bytes": 6237,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "ble",
+   "business",
+   "errors",
+   "logic",
+   "methodology",
+   "references",
+   "summary"
+  ]
+ },
+ {
+  "slug": "clickjacking",
+  "title": "Clickjacking",
+  "source": "Clickjacking\\README.md",
+  "file": "_knowledge/clickjacking.md",
+  "bytes": 13022,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Preventive Measures",
+   "OnBeforeUnload Event",
+   "XSS Filter",
+   "Challenge",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "challenge",
+   "clickjacking",
+   "event",
+   "filter",
+   "labs",
+   "measures",
+   "methodology",
+   "onbeforeunload",
+   "preventive",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "client_side_path_traversal",
+  "title": "Client Side Path Traversal",
+  "source": "Client Side Path Traversal\\README.md",
+  "file": "_knowledge/client_side_path_traversal.md",
+  "bytes": 5800,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "client",
+   "cspt",
+   "labs",
+   "methodology",
+   "path",
+   "references",
+   "side",
+   "summary",
+   "tools",
+   "traversal"
+  ]
+ },
+ {
+  "slug": "command_injection",
+  "title": "Command Injection",
+  "source": "Command Injection\\README.md",
+  "file": "_knowledge/command_injection.md",
+  "bytes": 16695,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Filter Bypasses",
+   "Data Exfiltration",
+   "Polyglot Command Injection",
+   "Tricks",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "bypasses",
+   "command",
+   "data",
+   "exfiltration",
+   "filter",
+   "injection",
+   "labs",
+   "methodology",
+   "polyglot",
+   "references",
+   "summary",
+   "tools",
+   "tricks"
+  ]
+ },
+ {
+  "slug": "cors_misconfiguration",
+  "title": "CORS Misconfiguration",
+  "source": "CORS Misconfiguration\\README.md",
+  "file": "_knowledge/cors_misconfiguration.md",
+  "bytes": 10036,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Requirements",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "cors",
+   "labs",
+   "methodology",
+   "misconfiguration",
+   "references",
+   "requirements",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "crlf_injection",
+  "title": "CRLF Injection",
+  "source": "CRLF Injection\\README.md",
+  "file": "_knowledge/crlf_injection.md",
+  "bytes": 5689,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "Filter Bypass",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "bypass",
+   "crlf",
+   "filter",
+   "injection",
+   "labs",
+   "methodology",
+   "references",
+   "summary"
+  ]
+ },
+ {
+  "slug": "cross_site_request_forgery",
+  "title": "Cross-Site Request Forgery",
+  "source": "Cross-Site Request Forgery\\README.md",
+  "file": "_knowledge/cross_site_request_forgery.md",
+  "bytes": 8727,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "cross",
+   "csrf",
+   "forgery",
+   "labs",
+   "methodology",
+   "references",
+   "request",
+   "site",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "css_injection",
+  "title": "CSS Injection",
+  "source": "CSS Injection\\README.md",
+  "file": "_knowledge/css_injection.md",
+  "bytes": 10471,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "css",
+   "injection",
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "csv_injection",
+  "title": "CSV Injection",
+  "source": "CSV Injection\\README.md",
+  "file": "_knowledge/csv_injection.md",
+  "bytes": 4149,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "csv",
+   "injection",
+   "methodology",
+   "references",
+   "summary"
+  ]
+ },
+ {
+  "slug": "cve_exploits",
+  "title": "CVE Exploits",
+  "source": "CVE Exploits\\README.md",
+  "file": "_knowledge/cve_exploits.md",
+  "bytes": 6118,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Big CVEs in the last 15 years",
+   "References"
+  ],
+  "keywords": [
+   "cve",
+   "cves",
+   "exploits",
+   "last",
+   "references",
+   "summary",
+   "tools",
+   "years"
+  ]
+ },
+ {
+  "slug": "denial_of_service",
+  "title": "Denial of Service",
+  "source": "Denial of Service\\README.md",
+  "file": "_knowledge/denial_of_service.md",
+  "bytes": 4830,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "denial",
+   "dos",
+   "methodology",
+   "references",
+   "service",
+   "summary"
+  ]
+ },
+ {
+  "slug": "dependency_confusion",
+  "title": "Dependency Confusion",
+  "source": "Dependency Confusion\\README.md",
+  "file": "_knowledge/dependency_confusion.md",
+  "bytes": 2321,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "confusion",
+   "dependency",
+   "methodology",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "directory_traversal",
+  "title": "Directory Traversal",
+  "source": "Directory Traversal\\README.md",
+  "file": "_knowledge/directory_traversal.md",
+  "bytes": 13006,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Exploit",
+   "Path Traversal",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "directory",
+   "exploit",
+   "labs",
+   "methodology",
+   "path",
+   "references",
+   "summary",
+   "tools",
+   "traversal"
+  ]
+ },
+ {
+  "slug": "dns_rebinding",
+  "title": "DNS Rebinding",
+  "source": "DNS Rebinding\\README.md",
+  "file": "_knowledge/dns_rebinding.md",
+  "bytes": 4581,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Protection Bypasses",
+   "References"
+  ],
+  "keywords": [
+   "bypasses",
+   "dns",
+   "methodology",
+   "protection",
+   "rebinding",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "dom_clobbering",
+  "title": "DOM Clobbering",
+  "source": "DOM Clobbering\\README.md",
+  "file": "_knowledge/dom_clobbering.md",
+  "bytes": 4868,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Tricks",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "clobbering",
+   "dom",
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "tools",
+   "tricks"
+  ]
+ },
+ {
+  "slug": "encoding_transformations",
+  "title": "Encoding Transformations",
+  "source": "Encoding Transformations\\README.md",
+  "file": "_knowledge/encoding_transformations.md",
+  "bytes": 6237,
+  "sections": [
+   "Summary",
+   "Unicode",
+   "Base64",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "base64",
+   "encoding",
+   "labs",
+   "references",
+   "summary",
+   "transformations",
+   "unicode"
+  ]
+ },
+ {
+  "slug": "external_variable_modification",
+  "title": "External Variable Modification",
+  "source": "External Variable Modification\\README.md",
+  "file": "_knowledge/external_variable_modification.md",
+  "bytes": 3692,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "Remediations",
+   "References"
+  ],
+  "keywords": [
+   "evm",
+   "external",
+   "methodology",
+   "modification",
+   "references",
+   "remediations",
+   "summary",
+   "variable"
+  ]
+ },
+ {
+  "slug": "file_inclusion",
+  "title": "File Inclusion",
+  "source": "File Inclusion\\README.md",
+  "file": "_knowledge/file_inclusion.md",
+  "bytes": 6721,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Local File Inclusion",
+   "Remote File Inclusion",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "file",
+   "inclusion",
+   "labs",
+   "local",
+   "references",
+   "remote",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "google_web_toolkit",
+  "title": "Google Web Toolkit",
+  "source": "Google Web Toolkit\\README.md",
+  "file": "_knowledge/google_web_toolkit.md",
+  "bytes": 2755,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "google",
+   "gwt",
+   "methodology",
+   "references",
+   "summary",
+   "toolkit",
+   "tools",
+   "web"
+  ]
+ },
+ {
+  "slug": "graphql_injection",
+  "title": "GraphQL Injection",
+  "source": "GraphQL Injection\\README.md",
+  "file": "_knowledge/graphql_injection.md",
+  "bytes": 22927,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Enumeration",
+   "Methodology",
+   "Injections",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "enumeration",
+   "graphql",
+   "injection",
+   "injections",
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "headless_browser",
+  "title": "Headless Browser",
+  "source": "Headless Browser\\README.md",
+  "file": "_knowledge/headless_browser.md",
+  "bytes": 9420,
+  "sections": [
+   "Summary",
+   "Headless Commands",
+   "Local File Read",
+   "Remote Debugging Port",
+   "Network",
+   "CVE",
+   "References"
+  ],
+  "keywords": [
+   "browser",
+   "commands",
+   "debugging",
+   "file",
+   "headless",
+   "local",
+   "network",
+   "port",
+   "read",
+   "references",
+   "remote",
+   "summary"
+  ]
+ },
+ {
+  "slug": "hidden_parameters",
+  "title": "Hidden Parameters",
+  "source": "Hidden Parameters\\README.md",
+  "file": "_knowledge/hidden_parameters.md",
+  "bytes": 2457,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "hidden",
+   "methodology",
+   "parameters",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "http_parameter_pollution",
+  "title": "HTTP Parameter Pollution",
+  "source": "HTTP Parameter Pollution\\README.md",
+  "file": "_knowledge/http_parameter_pollution.md",
+  "bytes": 4639,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "hpp",
+   "http",
+   "methodology",
+   "parameter",
+   "pollution",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "insecure_deserialization",
+  "title": "Insecure Deserialization",
+  "source": "Insecure Deserialization\\README.md",
+  "file": "_knowledge/insecure_deserialization.md",
+  "bytes": 4930,
+  "sections": [
+   "Summary",
+   "Deserialization Identifier",
+   "POP Gadgets",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "deserialization",
+   "gadgets",
+   "identifier",
+   "insecure",
+   "labs",
+   "references",
+   "summary"
+  ]
+ },
+ {
+  "slug": "insecure_direct_object_references",
+  "title": "Insecure Direct Object References",
+  "source": "Insecure Direct Object References\\README.md",
+  "file": "_knowledge/insecure_direct_object_references.md",
+  "bytes": 7428,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "direct",
+   "idor",
+   "insecure",
+   "labs",
+   "methodology",
+   "object",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "insecure_management_interface",
+  "title": "Insecure Management Interface",
+  "source": "Insecure Management Interface\\README.md",
+  "file": "_knowledge/insecure_management_interface.md",
+  "bytes": 2516,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "imi",
+   "insecure",
+   "interface",
+   "management",
+   "methodology",
+   "references",
+   "summary"
+  ]
+ },
+ {
+  "slug": "insecure_randomness",
+  "title": "Insecure Randomness",
+  "source": "Insecure Randomness\\README.md",
+  "file": "_knowledge/insecure_randomness.md",
+  "bytes": 10005,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "Time-Based Seeds",
+   "GUID / UUID",
+   "Mongo ObjectId",
+   "Uniqid",
+   "mt_rand",
+   "Custom Algorithms",
+   "References"
+  ],
+  "keywords": [
+   "algorithms",
+   "based",
+   "custom",
+   "guid",
+   "insecure",
+   "methodology",
+   "mongo",
+   "objectid",
+   "rand",
+   "randomness",
+   "references",
+   "seeds",
+   "summary",
+   "time",
+   "uniqid",
+   "uuid"
+  ]
+ },
+ {
+  "slug": "insecure_source_code_management",
+  "title": "Insecure Source Code Management",
+  "source": "Insecure Source Code Management\\README.md",
+  "file": "_knowledge/insecure_source_code_management.md",
+  "bytes": 2383,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "code",
+   "insecure",
+   "iscm",
+   "labs",
+   "management",
+   "methodology",
+   "references",
+   "source",
+   "summary"
+  ]
+ },
+ {
+  "slug": "java_rmi",
+  "title": "Java RMI",
+  "source": "Java RMI\\README.md",
+  "file": "_knowledge/java_rmi.md",
+  "bytes": 7152,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Detection",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "detection",
+   "java",
+   "methodology",
+   "references",
+   "rmi",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "json_web_token",
+  "title": "JSON Web Token",
+  "source": "JSON Web Token\\README.md",
+  "file": "_knowledge/json_web_token.md",
+  "bytes": 28374,
+  "sections": [
+   "Summary",
+   "Tools",
+   "JWT Format",
+   "JWT Signature",
+   "JWT Secret",
+   "JWT Claims",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "claims",
+   "format",
+   "json",
+   "jwt",
+   "labs",
+   "references",
+   "secret",
+   "signature",
+   "summary",
+   "token",
+   "tools",
+   "web"
+  ]
+ },
+ {
+  "slug": "latex_injection",
+  "title": "LaTeX Injection",
+  "source": "LaTeX Injection\\README.md",
+  "file": "_knowledge/latex_injection.md",
+  "bytes": 3647,
+  "sections": [
+   "Summary",
+   "File Manipulation",
+   "Command Execution",
+   "Cross Site Scripting",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "command",
+   "cross",
+   "execution",
+   "file",
+   "injection",
+   "labs",
+   "latex",
+   "manipulation",
+   "references",
+   "scripting",
+   "site",
+   "summary"
+  ]
+ },
+ {
+  "slug": "ldap_injection",
+  "title": "LDAP Injection",
+  "source": "LDAP Injection\\README.md",
+  "file": "_knowledge/ldap_injection.md",
+  "bytes": 6694,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "Defaults Attributes",
+   "Exploiting userPassword Attribute",
+   "Scripts",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "attribute",
+   "attributes",
+   "defaults",
+   "exploiting",
+   "injection",
+   "labs",
+   "ldap",
+   "methodology",
+   "references",
+   "scripts",
+   "summary",
+   "userpassword"
+  ]
+ },
+ {
+  "slug": "mass_assignment",
+  "title": "Mass Assignment",
+  "source": "Mass Assignment\\README.md",
+  "file": "_knowledge/mass_assignment.md",
+  "bytes": 2263,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "assignment",
+   "labs",
+   "mass",
+   "methodology",
+   "references",
+   "summary"
+  ]
+ },
+ {
+  "slug": "nosql_injection",
+  "title": "NoSQL Injection",
+  "source": "NoSQL Injection\\README.md",
+  "file": "_knowledge/nosql_injection.md",
+  "bytes": 8245,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Blind NoSQL",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "blind",
+   "injection",
+   "labs",
+   "methodology",
+   "nosql",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "oauth_misconfiguration",
+  "title": "OAuth Misconfiguration",
+  "source": "OAuth Misconfiguration\\README.md",
+  "file": "_knowledge/oauth_misconfiguration.md",
+  "bytes": 5398,
+  "sections": [
+   "Summary",
+   "Stealing OAuth Token via referer",
+   "Grabbing OAuth Token via redirect_uri",
+   "Executing XSS via redirect_uri",
+   "OAuth Private Key Disclosure",
+   "Authorization Code Rule Violation",
+   "Cross-Site Request Forgery",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "authorization",
+   "code",
+   "cross",
+   "disclosure",
+   "executing",
+   "forgery",
+   "grabbing",
+   "labs",
+   "misconfiguration",
+   "oauth",
+   "private",
+   "redirect",
+   "references",
+   "referer",
+   "request",
+   "rule",
+   "site",
+   "stealing",
+   "summary",
+   "token",
+   "violation"
+  ]
+ },
+ {
+  "slug": "open_redirect",
+  "title": "Open Redirect",
+  "source": "Open Redirect\\README.md",
+  "file": "_knowledge/open_redirect.md",
+  "bytes": 8087,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "HTTP Redirection Status Code",
+   "Redirect Methods",
+   "Filter Bypass",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "bypass",
+   "code",
+   "filter",
+   "http",
+   "labs",
+   "methodology",
+   "methods",
+   "open",
+   "redirect",
+   "redirection",
+   "references",
+   "status",
+   "summary"
+  ]
+ },
+ {
+  "slug": "orm_leak",
+  "title": "ORM Leak",
+  "source": "ORM Leak\\README.md",
+  "file": "_knowledge/orm_leak.md",
+  "bytes": 7749,
+  "sections": [
+   "Summary",
+   "Django (Python)",
+   "Prisma (Node.JS)",
+   "Ransack (Ruby)",
+   "CVE",
+   "References"
+  ],
+  "keywords": [
+   "(node.js)",
+   "(python)",
+   "(ruby)",
+   "django",
+   "leak",
+   "orm",
+   "prisma",
+   "ransack",
+   "references",
+   "summary"
+  ]
+ },
+ {
+  "slug": "prompt_injection",
+  "title": "Prompt Injection",
+  "source": "Prompt Injection\\README.md",
+  "file": "_knowledge/prompt_injection.md",
+  "bytes": 19007,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Applications",
+   "System Prompt",
+   "Direct Prompt Injection",
+   "Indirect Prompt Injection",
+   "References"
+  ],
+  "keywords": [
+   "applications",
+   "direct",
+   "indirect",
+   "injection",
+   "prompt",
+   "references",
+   "summary",
+   "system",
+   "tools"
+  ]
+ },
+ {
+  "slug": "prototype_pollution",
+  "title": "Prototype Pollution",
+  "source": "Prototype Pollution\\README.md",
+  "file": "_knowledge/prototype_pollution.md",
+  "bytes": 10223,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "labs",
+   "methodology",
+   "pollution",
+   "prototype",
+   "references",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "race_condition",
+  "title": "Race Condition",
+  "source": "Race Condition\\README.md",
+  "file": "_knowledge/race_condition.md",
+  "bytes": 8396,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Techniques",
+   "Turbo Intruder",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "condition",
+   "intruder",
+   "labs",
+   "methodology",
+   "race",
+   "references",
+   "summary",
+   "techniques",
+   "tools",
+   "turbo"
+  ]
+ },
+ {
+  "slug": "root",
+  "title": "PayloadsAllTheThings (总览)",
+  "source": "README.md",
+  "file": "_knowledge/root.md",
+  "bytes": 4198,
+  "sections": [
+   ":book: Documentation",
+   ":technologist: Contributions",
+   ":beers: Sponsors"
+  ],
+  "keywords": [
+   "(总览)",
+   ":beers:",
+   ":book:",
+   ":technologist:",
+   "contributions",
+   "documentation",
+   "payloadsallthethings",
+   "sponsors"
+  ]
+ },
+ {
+  "slug": "regular_expression",
+  "title": "Regular Expression",
+  "source": "Regular Expression\\README.md",
+  "file": "_knowledge/regular_expression.md",
+  "bytes": 4414,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "expression",
+   "methodology",
+   "references",
+   "regular",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "request_smuggling",
+  "title": "Request Smuggling",
+  "source": "Request Smuggling\\README.md",
+  "file": "_knowledge/request_smuggling.md",
+  "bytes": 8154,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "HTTP/2 Request Smuggling",
+   "Client-Side Desync",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "client",
+   "desync",
+   "http/2",
+   "labs",
+   "methodology",
+   "references",
+   "request",
+   "side",
+   "smuggling",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "reverse_proxy_misconfigurations",
+  "title": "Reverse Proxy Misconfigurations",
+  "source": "Reverse Proxy Misconfigurations\\README.md",
+  "file": "_knowledge/reverse_proxy_misconfigurations.md",
+  "bytes": 6994,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "labs",
+   "methodology",
+   "misconfigurations",
+   "proxy",
+   "references",
+   "reverse",
+   "rpm",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "saml_injection",
+  "title": "SAML Injection",
+  "source": "SAML Injection\\README.md",
+  "file": "_knowledge/saml_injection.md",
+  "bytes": 11724,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "injection",
+   "methodology",
+   "references",
+   "saml",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "server_side_include_injection",
+  "title": "Server Side Include Injection",
+  "source": "Server Side Include Injection\\README.md",
+  "file": "_knowledge/server_side_include_injection.md",
+  "bytes": 6355,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Edge Side Inclusion",
+   "References"
+  ],
+  "keywords": [
+   "edge",
+   "include",
+   "inclusion",
+   "injection",
+   "methodology",
+   "references",
+   "server",
+   "side",
+   "ssii",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "server_side_request_forgery",
+  "title": "Server Side Request Forgery",
+  "source": "Server Side Request Forgery\\README.md",
+  "file": "_knowledge/server_side_request_forgery.md",
+  "bytes": 20648,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Bypassing Filters",
+   "Exploitation via URL Scheme",
+   "Blind Exploitation",
+   "Upgrade to XSS",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "blind",
+   "bypassing",
+   "exploitation",
+   "filters",
+   "forgery",
+   "labs",
+   "methodology",
+   "references",
+   "request",
+   "scheme",
+   "server",
+   "side",
+   "ssrf",
+   "summary",
+   "tools",
+   "upgrade"
+  ]
+ },
+ {
+  "slug": "server_side_template_injection",
+  "title": "Server Side Template Injection",
+  "source": "Server Side Template Injection\\README.md",
+  "file": "_knowledge/server_side_template_injection.md",
+  "bytes": 12104,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "injection",
+   "labs",
+   "methodology",
+   "references",
+   "server",
+   "side",
+   "ssti",
+   "summary",
+   "template",
+   "tools"
+  ]
+ },
+ {
+  "slug": "sql_injection",
+  "title": "SQL Injection",
+  "source": "SQL Injection\\README.md",
+  "file": "_knowledge/sql_injection.md",
+  "bytes": 33229,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Entry Point Detection",
+   "DBMS Identification",
+   "Authentication Bypass",
+   "UNION Based Injection",
+   "Error Based Injection",
+   "Blind Injection",
+   "Stacked Based Injection",
+   "Polyglot Injection",
+   "Routed Injection",
+   "Second Order SQL Injection",
+   "PDO Prepared Statements",
+   "Generic WAF Bypass",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "authentication",
+   "based",
+   "blind",
+   "bypass",
+   "dbms",
+   "detection",
+   "entry",
+   "error",
+   "generic",
+   "identification",
+   "injection",
+   "labs",
+   "order",
+   "point",
+   "polyglot",
+   "prepared",
+   "references",
+   "routed",
+   "second",
+   "sql",
+   "stacked",
+   "statements",
+   "summary",
+   "tools",
+   "union"
+  ]
+ },
+ {
+  "slug": "tabnabbing",
+  "title": "Tabnabbing",
+  "source": "Tabnabbing\\README.md",
+  "file": "_knowledge/tabnabbing.md",
+  "bytes": 2294,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Exploit",
+   "Discover",
+   "References"
+  ],
+  "keywords": [
+   "discover",
+   "exploit",
+   "methodology",
+   "references",
+   "summary",
+   "tabnabbing",
+   "tools"
+  ]
+ },
+ {
+  "slug": "type_juggling",
+  "title": "Type Juggling",
+  "source": "Type Juggling\\README.md",
+  "file": "_knowledge/type_juggling.md",
+  "bytes": 10456,
+  "sections": [
+   "Summary",
+   "Loose Comparison",
+   "Magic Hashes",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "comparison",
+   "hashes",
+   "juggling",
+   "labs",
+   "loose",
+   "magic",
+   "methodology",
+   "references",
+   "summary",
+   "type"
+  ]
+ },
+ {
+  "slug": "upload_insecure_files",
+  "title": "Upload Insecure Files",
+  "source": "Upload Insecure Files\\Configuration Apache .htaccess\\README.md",
+  "file": "_knowledge/upload_insecure_files.md",
+  "bytes": 3436,
+  "sections": [
+   "Summary",
+   "AddType Directive",
+   "Self Contained .htaccess",
+   "Polyglot .htaccess",
+   "References"
+  ],
+  "keywords": [
+   ".htaccess",
+   "addtype",
+   "contained",
+   "directive",
+   "files",
+   "insecure",
+   "polyglot",
+   "references",
+   "self",
+   "summary",
+   "uif",
+   "upload"
+  ]
+ },
+ {
+  "slug": "upload_insecure_files_2",
+  "title": "Upload Insecure Files",
+  "source": "Upload Insecure Files\\README.md",
+  "file": "_knowledge/upload_insecure_files_2.md",
+  "bytes": 20082,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "files",
+   "insecure",
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "tools",
+   "uif",
+   "upload"
+  ]
+ },
+ {
+  "slug": "virtual_hosts",
+  "title": "Virtual Hosts",
+  "source": "Virtual Hosts\\README.md",
+  "file": "_knowledge/virtual_hosts.md",
+  "bytes": 3631,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "hosts",
+   "methodology",
+   "references",
+   "summary",
+   "tools",
+   "virtual"
+  ]
+ },
+ {
+  "slug": "web_cache_deception",
+  "title": "Web Cache Deception",
+  "source": "Web Cache Deception\\README.md",
+  "file": "_knowledge/web_cache_deception.md",
+  "bytes": 8574,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Tricks",
+   "Detecting Web Cache Deception",
+   "CloudFlare Caching",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "cache",
+   "caching",
+   "cloudflare",
+   "deception",
+   "detecting",
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "tools",
+   "tricks",
+   "wcd",
+   "web"
+  ]
+ },
+ {
+  "slug": "web_sockets",
+  "title": "Web Sockets",
+  "source": "Web Sockets\\README.md",
+  "file": "_knowledge/web_sockets.md",
+  "bytes": 8034,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Cross-Site WebSocket Hijacking (CSWSH)",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "(cswsh)",
+   "cross",
+   "hijacking",
+   "labs",
+   "methodology",
+   "references",
+   "site",
+   "sockets",
+   "summary",
+   "tools",
+   "web",
+   "websocket"
+  ]
+ },
+ {
+  "slug": "xpath_injection",
+  "title": "XPATH Injection",
+  "source": "XPATH Injection\\README.md",
+  "file": "_knowledge/xpath_injection.md",
+  "bytes": 2676,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "injection",
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "tools",
+   "xpath"
+  ]
+ },
+ {
+  "slug": "xs_leak",
+  "title": "XS-Leak",
+  "source": "XS-Leak\\README.md",
+  "file": "_knowledge/xs_leak.md",
+  "bytes": 10636,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Cross-site Oracles",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "cross",
+   "labs",
+   "leak",
+   "methodology",
+   "oracles",
+   "references",
+   "site",
+   "summary",
+   "tools"
+  ]
+ },
+ {
+  "slug": "xslt_injection",
+  "title": "XSLT Injection",
+  "source": "XSLT Injection\\README.md",
+  "file": "_knowledge/xslt_injection.md",
+  "bytes": 9082,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "injection",
+   "labs",
+   "methodology",
+   "references",
+   "summary",
+   "tools",
+   "xslt"
+  ]
+ },
+ {
+  "slug": "xss_injection",
+  "title": "XSS Injection",
+  "source": "XSS Injection\\README.md",
+  "file": "_knowledge/xss_injection.md",
+  "bytes": 29616,
+  "sections": [
+   "Summary",
+   "Methodology",
+   "Proof of Concept",
+   "Identify an XSS Endpoint",
+   "XSS in HTML/Applications",
+   "XSS in Wrappers for URI",
+   "XSS in Files",
+   "XSS in PostMessage",
+   "Blind XSS",
+   "Mutated XSS",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "blind",
+   "concept",
+   "endpoint",
+   "files",
+   "html/applications",
+   "identify",
+   "injection",
+   "labs",
+   "methodology",
+   "mutated",
+   "postmessage",
+   "proof",
+   "references",
+   "summary",
+   "wrappers",
+   "xss"
+  ]
+ },
+ {
+  "slug": "xxe_injection",
+  "title": "XXE Injection",
+  "source": "XXE Injection\\README.md",
+  "file": "_knowledge/xxe_injection.md",
+  "bytes": 29004,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Detect The Vulnerability",
+   "Exploiting XXE to Retrieve Files",
+   "Exploiting XXE to Perform SSRF Attacks",
+   "Exploiting XXE to Perform a Denial of Service",
+   "Exploiting Error Based XXE",
+   "Exploiting Blind XXE to Exfiltrate Data Out of Band",
+   "WAF Bypasses",
+   "XXE in Exotic Files",
+   "Labs",
+   "References"
+  ],
+  "keywords": [
+   "attacks",
+   "band",
+   "based",
+   "blind",
+   "bypasses",
+   "data",
+   "denial",
+   "detect",
+   "error",
+   "exfiltrate",
+   "exotic",
+   "exploiting",
+   "files",
+   "injection",
+   "labs",
+   "perform",
+   "references",
+   "retrieve",
+   "service",
+   "ssrf",
+   "summary",
+   "tools",
+   "vulnerability",
+   "xxe"
+  ]
+ },
+ {
+  "slug": "zip_slip",
+  "title": "Zip Slip",
+  "source": "Zip Slip\\README.md",
+  "file": "_knowledge/zip_slip.md",
+  "bytes": 2420,
+  "sections": [
+   "Summary",
+   "Tools",
+   "Methodology",
+   "References"
+  ],
+  "keywords": [
+   "methodology",
+   "references",
+   "slip",
+   "summary",
+   "tools",
+   "zip"
+  ]
+ }
+]
