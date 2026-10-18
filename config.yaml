@@ -1,0 +1,19 @@
+api_key: ""   # 填写您的 DeepSeek API Key，也可通过环境变量 DEEPSEEK_API_KEY 设置
+max_iterations: 50
+task_timeout: 3600
+default_timeout: 60
+shodan_api_key: ""   # 填写您的 Shodan API Key，也可通过环境变量 SHODAN_API_KEY 设置
+max_consecutive_errors: 3
+llm:
+  model: "deepseek-chat"
+  max_tokens: 2000
+  temperature: 0.1
+  request_timeout: 120
+  max_retries: 3
+resource_limits:
+  max_pages_crawl: 50
+  max_ports_scan: 1000
+  max_concurrent_scan: 50
+logging:
+  level: "INFO"
+  file: "agent.log"
